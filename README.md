@@ -1,6 +1,6 @@
 # Basic NxJS
  
-<p>some basic commands using typescript</p>
+<p>some basic commands using NxJS</p>
 
 
 
