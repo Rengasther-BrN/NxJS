@@ -6,7 +6,7 @@
 
 ### Technologies:
 
-* [NxJS] - (https://rxjs.dev/)(
+* [NxJS] - (https://rxjs.dev/)
 * [Angular NxJS] - (https://angular.io/guide/rx-library)
 
 
