@@ -5,8 +5,8 @@
 ### Features:
 
 * [x] Observable.
-* [x] Using bootstrap responsiveness frameworks
-
+* [x] pipe async.
+* [x] map, switchMap.
 
 ### Technologies:
 
